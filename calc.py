@@ -1,5 +1,4 @@
-#Write the code here
-a = 5
-b = 8
-print(a+b)
-print(a-b)
+operand1 = float(input("Enter the first number: "))
+operand2 = float(input("Enter the second number: "))
+operator = input("Enter operator (+, -, *, /): ")
+
